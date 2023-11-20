@@ -21,6 +21,7 @@ pip install matplotlib
 ## Usage:
 ```bash
 python Train_test.py
+python Visualize_boundary.py
 ```
 - Run edge_tracking.py file to get the result:
 - 
