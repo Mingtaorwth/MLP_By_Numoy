@@ -23,8 +23,10 @@ pip install matplotlib
 python Train_test.py
 ```
 - Run edge_tracking.py file to get the result:
+- 
 ![Example Image](Result_MLP.png)
 
 - The Ground Truth is:
+
 ![Example Image](Input_data_with_label.png)
 
