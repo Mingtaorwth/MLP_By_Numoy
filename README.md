@@ -24,7 +24,7 @@ python Train_test.py
 python Visualize_boundary.py
 ```
 - Run edge_tracking.py file to get the result:
-- 
+
 ![Example Image](Result_MLP.png)
 
 - The Ground Truth is:
